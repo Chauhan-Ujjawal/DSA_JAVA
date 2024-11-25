@@ -1,11 +1,20 @@
-# LeetCode
+Welcome to my Data Structures and Algorithms repository! 
 
-This repository contains my solutions to LeetCode problems.
+This repository contains solutions to a wide range of DSA problems, implemented in Java. The primary goal of this project is to improve problem-solving skills, master algorithmic concepts, and explore efficient coding practices.
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
+✨ Features
+
+
+
+Comprehensive coverage of DSA topics.
+Clean and well-commented Java code for better understanding.
+Optimized solutions with various approaches (where applicable).
+Regular updates with new problems and solutions.
+
+ 
+ 
+ 
+ 
  Happy coding! 🚀
