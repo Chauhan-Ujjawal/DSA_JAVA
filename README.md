@@ -25,11 +25,13 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +44,8 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
