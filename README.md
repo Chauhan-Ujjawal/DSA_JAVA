@@ -31,11 +31,13 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
@@ -48,4 +50,12 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
