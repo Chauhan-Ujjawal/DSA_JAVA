@@ -37,6 +37,7 @@ Regular updates with new problems and solutions.
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0551-student-attendance-record-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
