@@ -7,7 +7,6 @@ class Solution {
             freq.put(temp, freq.getOrDefault(temp, 0) + 1);
         }
         int A = freq.getOrDefault('A', 0);
-        int L = freq.getOrDefault('L', 0);
         if( A<2) return true;
         return false; 
     }
