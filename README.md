@@ -41,6 +41,7 @@ Regular updates with new problems and solutions.
 | [0551-student-attendance-record-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0551-student-attendance-record-i) |
 | [0953-reverse-only-letters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,12 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
