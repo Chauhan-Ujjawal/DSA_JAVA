@@ -24,6 +24,7 @@ Regular updates with new problems and solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0953-reverse-only-letters) |
@@ -32,6 +33,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
@@ -62,6 +64,7 @@ Regular updates with new problems and solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
