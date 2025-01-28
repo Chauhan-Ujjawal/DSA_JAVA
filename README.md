@@ -49,12 +49,14 @@ Regular updates with new problems and solutions.
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
