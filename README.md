@@ -114,5 +114,6 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
