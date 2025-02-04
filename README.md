@@ -46,6 +46,7 @@ Regular updates with new problems and solutions.
 | [0443-string-compression](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0551-student-attendance-record-i) |
+| [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0953-reverse-only-letters) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -63,6 +64,7 @@ Regular updates with new problems and solutions.
 | [0013-roman-to-integer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
+| [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Queue
