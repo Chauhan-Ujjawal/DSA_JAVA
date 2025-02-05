@@ -44,6 +44,7 @@ Regular updates with new problems and solutions.
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0551-student-attendance-record-i) |
 | [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
@@ -116,6 +117,7 @@ Regular updates with new problems and solutions.
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sliding Window
