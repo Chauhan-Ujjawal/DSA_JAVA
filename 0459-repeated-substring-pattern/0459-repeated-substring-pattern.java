@@ -1,21 +1,20 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
-        int j;
-        StringBuilder result;
-        
-        for (int i = 1; i <= s.length() / 2; i++) { // Start from 1 instead of 0 to avoid empty substring
-            result = new StringBuilder(s.substring(0, i)); // Extract substring
-            j = 1; // Reset j for each new substring
-            
-            while (result.length() < s.length()) { // Ensure result doesn't exceed original length
-                result.append(s.substring(0, i)); // Append the original substring, not itself
-                j++;
+        int n = s.length();  
+        for (int l = n/2; l >= 1; l--) {      
+            if (n % l == 0) {           
+                int times = n/l;
+                String pattern = s.substring(0, l);
+                StringBuilder newStr = new StringBuilder();           
+                while(times > 0) {
+                    newStr.append(pattern);
+                    times--;
+                }            
+                if (s.equals(newStr.toString())) {
+                    return true;
+                }              
             }
-            
-            if (result.toString().equals(s)) { // Check if it matches original string
-                return true;
-            }
-        }
+        }        
         return false;
     }
 }
