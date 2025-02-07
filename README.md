@@ -51,6 +51,7 @@ Regular updates with new problems and solutions.
 | [0953-reverse-only-letters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0953-reverse-only-letters) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1666-make-the-string-great](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1666-make-the-string-great) |
@@ -107,6 +108,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1666-make-the-string-great](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1666-make-the-string-great) |
 ## Array
 |  |
@@ -137,4 +139,12 @@ Regular updates with new problems and solutions.
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1908-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
