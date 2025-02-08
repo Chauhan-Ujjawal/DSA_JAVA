@@ -48,6 +48,7 @@ Regular updates with new problems and solutions.
 | [0520-detect-capital](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0551-student-attendance-record-i) |
 | [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
+| [0916-decoded-string-at-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0916-decoded-string-at-index) |
 | [0953-reverse-only-letters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0953-reverse-only-letters) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -107,6 +108,7 @@ Regular updates with new problems and solutions.
 ## Stack
 |  |
 | ------- |
+| [0916-decoded-string-at-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0916-decoded-string-at-index) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1666-make-the-string-great](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1666-make-the-string-great) |
