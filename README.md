@@ -63,6 +63,7 @@ Regular updates with new problems and solutions.
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ Regular updates with new problems and solutions.
 | [0013-roman-to-integer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Simulation
 |  |
 | ------- |
