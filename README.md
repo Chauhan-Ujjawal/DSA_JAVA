@@ -65,6 +65,7 @@ Regular updates with new problems and solutions.
 | [1823-determine-if-string-halves-are-alike](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2887-sort-vowels-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2887-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
+| [2887-sort-vowels-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
 |  |
 | ------- |
