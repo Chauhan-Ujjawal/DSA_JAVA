@@ -32,6 +32,7 @@ Regular updates with new problems and solutions.
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0953-reverse-only-letters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -170,4 +171,5 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
