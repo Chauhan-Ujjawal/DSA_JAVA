@@ -166,4 +166,8 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
