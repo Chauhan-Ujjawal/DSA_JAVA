@@ -111,6 +111,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0382-linked-list-random-node](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -175,6 +176,15 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
