@@ -79,6 +79,7 @@ Regular updates with new problems and solutions.
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
@@ -178,6 +179,7 @@ Regular updates with new problems and solutions.
 | [0237-delete-node-in-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Reservoir Sampling
 |  |
