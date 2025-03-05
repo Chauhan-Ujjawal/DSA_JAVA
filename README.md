@@ -29,6 +29,7 @@ Regular updates with new problems and solutions.
 | [0061-rotate-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -114,6 +115,7 @@ Regular updates with new problems and solutions.
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2887-sort-vowels-in-a-string) |
@@ -196,6 +198,7 @@ Regular updates with new problems and solutions.
 | [0138-copy-list-with-random-pointer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0206-reverse-linked-list) |
@@ -225,4 +228,12 @@ Regular updates with new problems and solutions.
 | [0203-remove-linked-list-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
