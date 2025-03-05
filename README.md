@@ -81,6 +81,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -192,6 +193,7 @@ Regular updates with new problems and solutions.
 | [0025-reverse-nodes-in-k-group](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
