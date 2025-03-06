@@ -149,6 +149,7 @@ Regular updates with new problems and solutions.
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
 ## String Matching
 |  |
