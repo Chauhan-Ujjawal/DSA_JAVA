@@ -126,6 +126,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0382-linked-list-random-node](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
@@ -246,4 +247,8 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
