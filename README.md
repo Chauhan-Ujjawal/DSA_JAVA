@@ -149,12 +149,14 @@ Regular updates with new problems and solutions.
 | [0916-decoded-string-at-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0916-decoded-string-at-index) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1666-make-the-string-great) |
 ## Array
 |  |
 | ------- |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
@@ -189,6 +191,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
 | ------- |
