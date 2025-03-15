@@ -66,6 +66,7 @@ Regular updates with new problems and solutions.
 | [0916-decoded-string-at-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0916-decoded-string-at-index) |
 | [0953-reverse-only-letters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0953-reverse-only-letters) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
+| [1078-remove-outermost-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
@@ -147,6 +148,7 @@ Regular updates with new problems and solutions.
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0916-decoded-string-at-index) |
+| [1078-remove-outermost-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
