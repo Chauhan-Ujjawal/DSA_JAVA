@@ -141,6 +141,7 @@ Regular updates with new problems and solutions.
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1552-build-an-array-with-stack-operations) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Regular updates with new problems and solutions.
 | [1078-remove-outermost-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2128-reverse-prefix-of-word) |
@@ -162,6 +164,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
