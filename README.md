@@ -81,6 +81,7 @@ Regular updates with new problems and solutions.
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2128-reverse-prefix-of-word) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2887-sort-vowels-in-a-string) |
+| [3447-clear-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Regular updates with new problems and solutions.
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1552-build-an-array-with-stack-operations) |
+| [3447-clear-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Regular updates with new problems and solutions.
 | [1666-make-the-string-great](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2128-reverse-prefix-of-word) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2573-remove-nodes-from-linked-list) |
+| [3447-clear-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
