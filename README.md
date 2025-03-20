@@ -37,6 +37,7 @@ Regular updates with new problems and solutions.
 | [0443-string-compression](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0953-reverse-only-letters) |
@@ -127,6 +128,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
@@ -154,6 +156,7 @@ Regular updates with new problems and solutions.
 | [0225-implement-stack-using-queues](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0916-decoded-string-at-index) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -171,6 +174,7 @@ Regular updates with new problems and solutions.
 ## Array
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
@@ -205,11 +209,13 @@ Regular updates with new problems and solutions.
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
