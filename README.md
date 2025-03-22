@@ -74,6 +74,7 @@ Regular updates with new problems and solutions.
 | [1078-remove-outermost-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1666-make-the-string-great](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1666-make-the-string-great) |
@@ -166,6 +167,7 @@ Regular updates with new problems and solutions.
 | [1078-remove-outermost-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1666-make-the-string-great) |
