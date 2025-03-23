@@ -164,6 +164,7 @@ Regular updates with new problems and solutions.
 | [0232-implement-queue-using-stacks](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0916-decoded-string-at-index) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -184,6 +185,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
@@ -225,6 +227,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
