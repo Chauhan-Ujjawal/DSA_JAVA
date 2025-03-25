@@ -1,23 +1,42 @@
-public class Solution {
+class Solution {
     public String removeKdigits(String num, int k) {
-        StringBuilder result = new StringBuilder(); 
-        int n = num.length();
-        for(int i = 0; i < n; i++) {
-            while(result.length() > 0 && result.charAt(result.length() - 1) > num.charAt(i) && k > 0) {
-                result.deleteCharAt(result.length() - 1);
+        if (k >= num.length()) return "0"; // If k >= length, return "0"
+
+        Stack<Character> stack = new Stack<>();
+
+        // Conventional for loop to iterate over the string
+        for (int i = 0; i < num.length(); i++) {
+            char digit = num.charAt(i);
+
+            // Remove larger digits from the stack (greedy removal)
+            while (!stack.isEmpty() && k > 0 && stack.peek() > digit) {
+                stack.pop();
                 k--;
             }
-            if(result.length() > 0 || num.charAt(i) != '0') {
-                result.append(num.charAt(i));
-            }
-        }   
-        while(result.length() > 0 && k > 0) {
-            result.deleteCharAt(result.length() - 1);
+
+            stack.push(digit); // Push the current digit
+        }
+
+        // Remove remaining k digits if necessary
+        while (k > 0 && !stack.isEmpty()) {
+            stack.pop();
             k--;
         }
-        if(result.length() == 0) {
-            return "0";
-        }    
-        return result.toString();
+
+        // Build the final result
+        StringBuilder sb = new StringBuilder();
+        while (!stack.isEmpty()) {
+            sb.append(stack.pop());
+        }
+
+        // Reverse since we constructed it from the stack (LIFO order)
+        sb.reverse();
+
+        // Remove leading zeros
+        while (sb.length() > 0 && sb.charAt(0) == '0') {
+            sb.deleteCharAt(0);
+        }
+
+        return sb.length() == 0 ? "0" : sb.toString(); // Return "0" if empty
     }
 }
