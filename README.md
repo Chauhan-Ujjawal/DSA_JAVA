@@ -162,6 +162,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0232-implement-queue-using-stacks) |
@@ -253,6 +254,7 @@ Regular updates with new problems and solutions.
 | [0025-reverse-nodes-in-k-group](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -308,4 +310,16 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
