@@ -86,6 +86,7 @@ Regular updates with new problems and solutions.
 | [1823-determine-if-string-halves-are-alike](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2128-reverse-prefix-of-word) |
@@ -155,6 +156,7 @@ Regular updates with new problems and solutions.
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1552-build-an-array-with-stack-operations) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3447-clear-digits) |
 ## Stack
@@ -182,6 +184,7 @@ Regular updates with new problems and solutions.
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1666-make-the-string-great) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2470-removing-stars-from-a-string) |
