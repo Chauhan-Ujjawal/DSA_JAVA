@@ -154,6 +154,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -171,6 +172,7 @@ Regular updates with new problems and solutions.
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0916-decoded-string-at-index) |
@@ -194,6 +196,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1072-next-greater-node-in-linked-list) |
