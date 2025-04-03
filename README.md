@@ -173,6 +173,7 @@ Regular updates with new problems and solutions.
 | [0232-implement-queue-using-stacks](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
@@ -200,6 +201,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
@@ -247,6 +249,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0937-online-stock-span) |
