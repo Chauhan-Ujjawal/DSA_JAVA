@@ -103,6 +103,7 @@ Regular updates with new problems and solutions.
 | [0141-linked-list-cycle](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
@@ -119,6 +120,7 @@ Regular updates with new problems and solutions.
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -136,6 +138,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -201,6 +204,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
