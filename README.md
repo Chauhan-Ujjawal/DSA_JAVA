@@ -53,6 +53,7 @@ Regular updates with new problems and solutions.
 | [0005-longest-palindromic-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
@@ -99,6 +100,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -137,6 +139,7 @@ Regular updates with new problems and solutions.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
@@ -203,6 +206,7 @@ Regular updates with new problems and solutions.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
