@@ -33,6 +33,7 @@ Regular updates with new problems and solutions.
 | [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0443-string-compression) |
@@ -135,6 +136,7 @@ Regular updates with new problems and solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -211,6 +213,7 @@ Regular updates with new problems and solutions.
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0164-maximum-gap](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
@@ -338,6 +341,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
