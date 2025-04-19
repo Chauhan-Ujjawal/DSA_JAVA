@@ -69,6 +69,7 @@ Regular updates with new problems and solutions.
 | [0520-detect-capital](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0916-decoded-string-at-index) |
@@ -132,6 +133,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
 |  |
@@ -184,6 +186,7 @@ Regular updates with new problems and solutions.
 | [0402-remove-k-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
@@ -254,6 +257,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0402-remove-k-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
