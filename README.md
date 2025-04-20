@@ -56,6 +56,7 @@ Regular updates with new problems and solutions.
 | [0020-valid-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0071-simplify-path) |
+| [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
@@ -147,6 +148,7 @@ Regular updates with new problems and solutions.
 | [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -217,6 +219,7 @@ Regular updates with new problems and solutions.
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
@@ -257,6 +260,7 @@ Regular updates with new problems and solutions.
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
