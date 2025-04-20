@@ -149,6 +149,7 @@ Regular updates with new problems and solutions.
 | [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -220,6 +221,7 @@ Regular updates with new problems and solutions.
 | [0128-longest-consecutive-sequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
@@ -337,6 +339,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -380,4 +383,12 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
