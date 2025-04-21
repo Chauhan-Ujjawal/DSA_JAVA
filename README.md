@@ -152,6 +152,7 @@ Regular updates with new problems and solutions.
 | [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -225,6 +226,7 @@ Regular updates with new problems and solutions.
 | [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -393,4 +395,8 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
