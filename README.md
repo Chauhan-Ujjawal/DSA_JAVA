@@ -34,6 +34,7 @@ Regular updates with new problems and solutions.
 | [0148-sort-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -225,6 +226,7 @@ Regular updates with new problems and solutions.
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
@@ -361,6 +363,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
