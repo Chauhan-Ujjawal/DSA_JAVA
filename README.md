@@ -226,6 +226,7 @@ Regular updates with new problems and solutions.
 | [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
@@ -399,4 +400,8 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
