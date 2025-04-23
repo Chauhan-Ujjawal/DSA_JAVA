@@ -189,6 +189,7 @@ Regular updates with new problems and solutions.
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
@@ -356,6 +357,7 @@ Regular updates with new problems and solutions.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0937-online-stock-span) |
