@@ -62,6 +62,7 @@ Regular updates with new problems and solutions.
 | [0071-simplify-path](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
@@ -115,6 +116,7 @@ Regular updates with new problems and solutions.
 | [0142-linked-list-cycle-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
