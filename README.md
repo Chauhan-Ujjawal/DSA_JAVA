@@ -58,6 +58,7 @@ Regular updates with new problems and solutions.
 | [0005-longest-palindromic-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -170,6 +171,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0382-linked-list-random-node) |
@@ -179,6 +181,7 @@ Regular updates with new problems and solutions.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
