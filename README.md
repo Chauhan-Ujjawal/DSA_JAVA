@@ -72,6 +72,7 @@ Regular updates with new problems and solutions.
 | [0402-remove-k-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0459-repeated-substring-pattern) |
@@ -123,6 +124,7 @@ Regular updates with new problems and solutions.
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -269,6 +271,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0187-repeated-dna-sequences) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 ## Database
 |  |
 | ------- |
