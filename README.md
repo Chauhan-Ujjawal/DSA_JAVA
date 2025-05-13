@@ -243,6 +243,7 @@ Regular updates with new problems and solutions.
 | [0164-maximum-gap](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0238-product-of-array-except-self) |
@@ -271,6 +272,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 ## Database
 |  |
@@ -384,6 +386,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0069-sqrtx](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
@@ -428,6 +431,7 @@ Regular updates with new problems and solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0238-product-of-array-except-self) |
 ## Rolling Hash
 |  |
