@@ -44,6 +44,7 @@ Regular updates with new problems and solutions.
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0953-reverse-only-letters) |
@@ -169,6 +170,7 @@ Regular updates with new problems and solutions.
 | [0274-h-index](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
@@ -251,6 +253,7 @@ Regular updates with new problems and solutions.
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
@@ -274,6 +277,7 @@ Regular updates with new problems and solutions.
 | [0187-repeated-dna-sequences](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 ## Database
 |  |
 | ------- |
@@ -388,6 +392,7 @@ Regular updates with new problems and solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
 | ------- |
@@ -420,6 +425,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
