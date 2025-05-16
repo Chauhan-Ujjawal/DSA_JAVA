@@ -131,6 +131,7 @@ Regular updates with new problems and solutions.
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Queue
 |  |
 | ------- |
@@ -264,6 +265,7 @@ Regular updates with new problems and solutions.
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
 ## String Matching
 |  |
 | ------- |
@@ -278,6 +280,7 @@ Regular updates with new problems and solutions.
 | [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Database
 |  |
 | ------- |
