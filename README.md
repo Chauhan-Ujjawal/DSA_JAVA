@@ -101,6 +101,7 @@ Regular updates with new problems and solutions.
 | [1823-determine-if-string-halves-are-alike](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
@@ -280,6 +281,7 @@ Regular updates with new problems and solutions.
 | [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Database
 |  |
