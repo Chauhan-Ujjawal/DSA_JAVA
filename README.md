@@ -267,6 +267,7 @@ Regular updates with new problems and solutions.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3644-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -283,6 +284,7 @@ Regular updates with new problems and solutions.
 | [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Database
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0238-product-of-array-except-self) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
