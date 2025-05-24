@@ -174,6 +174,7 @@ Regular updates with new problems and solutions.
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
@@ -259,6 +260,7 @@ Regular updates with new problems and solutions.
 | [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0739-daily-temperatures) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0940-fruit-into-baskets](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0940-fruit-into-baskets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1072-next-greater-node-in-linked-list) |
