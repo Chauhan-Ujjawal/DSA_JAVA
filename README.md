@@ -163,6 +163,7 @@ Regular updates with new problems and solutions.
 | [0187-repeated-dna-sequences](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -192,6 +193,7 @@ Regular updates with new problems and solutions.
 | [0168-excel-sheet-column-title](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
@@ -390,6 +392,7 @@ Regular updates with new problems and solutions.
 | [0206-reverse-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
