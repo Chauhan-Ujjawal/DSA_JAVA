@@ -156,6 +156,7 @@ Regular updates with new problems and solutions.
 | [0005-longest-palindromic-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
+| [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
 |  |
@@ -197,6 +198,7 @@ Regular updates with new problems and solutions.
 | [0382-linked-list-random-node](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Simulation
 |  |
@@ -393,6 +395,7 @@ Regular updates with new problems and solutions.
 | [0231-power-of-two](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
@@ -473,4 +476,8 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0187-repeated-dna-sequences) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
