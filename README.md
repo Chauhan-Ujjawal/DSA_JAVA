@@ -253,6 +253,7 @@ Regular updates with new problems and solutions.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -343,6 +344,7 @@ Regular updates with new problems and solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0039-combination-sum) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
 ## Linked List
 |  |
