@@ -136,6 +136,7 @@ Regular updates with new problems and solutions.
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Queue
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Regular updates with new problems and solutions.
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Regular updates with new problems and solutions.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3644-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
@@ -303,6 +306,7 @@ Regular updates with new problems and solutions.
 | [0940-fruit-into-baskets](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0940-fruit-into-baskets) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Database
 |  |
@@ -482,4 +486,8 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
