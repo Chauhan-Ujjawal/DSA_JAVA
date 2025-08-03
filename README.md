@@ -137,6 +137,7 @@ Regular updates with new problems and solutions.
 | [2107-find-unique-binary-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2107-find-unique-binary-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Regular updates with new problems and solutions.
 | [2626-count-the-number-of-good-subarrays](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3644-minimum-positive-sum-subarray) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3799-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -403,6 +405,7 @@ Regular updates with new problems and solutions.
 | [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2573-remove-nodes-from-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -490,4 +493,8 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
