@@ -169,6 +169,7 @@ Regular updates with new problems and solutions.
 | [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Regular updates with new problems and solutions.
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1885-count-number-of-homogenous-substrings) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -215,6 +217,7 @@ Regular updates with new problems and solutions.
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -405,6 +408,7 @@ Regular updates with new problems and solutions.
 | [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2573-remove-nodes-from-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
