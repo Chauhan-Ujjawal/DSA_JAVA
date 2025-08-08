@@ -170,6 +170,7 @@ Regular updates with new problems and solutions.
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Regular updates with new problems and solutions.
 | [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1885-count-number-of-homogenous-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -409,6 +411,7 @@ Regular updates with new problems and solutions.
 | [1013-fibonacci-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
