@@ -131,6 +131,7 @@ Regular updates with new problems and solutions.
 | [0594-longest-harmonious-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0940-fruit-into-baskets) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -168,6 +169,7 @@ Regular updates with new problems and solutions.
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -284,6 +286,7 @@ Regular updates with new problems and solutions.
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0940-fruit-into-baskets](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0940-fruit-into-baskets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0981-delete-columns-to-make-sorted) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1524-string-matching-in-an-array](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1524-string-matching-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1552-build-an-array-with-stack-operations) |
