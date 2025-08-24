@@ -61,6 +61,7 @@ Regular updates with new problems and solutions.
 | [0020-valid-parentheses](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0168-excel-sheet-column-title) |
