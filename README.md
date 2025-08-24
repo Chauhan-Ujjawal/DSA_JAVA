@@ -62,6 +62,7 @@ Regular updates with new problems and solutions.
 | [0043-multiply-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0168-excel-sheet-column-title) |
@@ -214,6 +215,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0735-asteroid-collision) |
@@ -266,6 +268,7 @@ Regular updates with new problems and solutions.
 | ------- |
 | [0039-combination-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
