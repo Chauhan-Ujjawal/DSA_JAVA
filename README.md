@@ -169,6 +169,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0342-power-of-four) |
@@ -446,6 +447,7 @@ Regular updates with new problems and solutions.
 | [0069-sqrtx](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 ## Tree
@@ -455,6 +457,7 @@ Regular updates with new problems and solutions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -470,6 +473,7 @@ Regular updates with new problems and solutions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Data Stream
 |  |
