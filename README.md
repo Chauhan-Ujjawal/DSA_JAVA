@@ -467,6 +467,7 @@ Regular updates with new problems and solutions.
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -485,6 +486,7 @@ Regular updates with new problems and solutions.
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -550,4 +552,8 @@ Regular updates with new problems and solutions.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
