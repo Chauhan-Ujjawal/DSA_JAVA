@@ -470,6 +470,7 @@ Regular updates with new problems and solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -493,6 +494,7 @@ Regular updates with new problems and solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2384-root-equals-sum-of-children) |
 ## Data Stream
 |  |
 | ------- |
