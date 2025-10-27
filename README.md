@@ -461,6 +461,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -479,6 +480,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -491,6 +493,7 @@ Regular updates with new problems and solutions.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -575,6 +578,7 @@ Regular updates with new problems and solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
