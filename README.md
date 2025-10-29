@@ -44,6 +44,7 @@ Regular updates with new problems and solutions.
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0908-middle-of-the-linked-list) |
@@ -134,6 +135,7 @@ Regular updates with new problems and solutions.
 | [0389-find-the-difference](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0594-longest-harmonious-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-buddy-strings](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0940-fruit-into-baskets) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -473,6 +475,7 @@ Regular updates with new problems and solutions.
 | [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2384-root-equals-sum-of-children) |
@@ -488,6 +491,7 @@ Regular updates with new problems and solutions.
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -505,6 +509,7 @@ Regular updates with new problems and solutions.
 | [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/2384-root-equals-sum-of-children) |
@@ -574,11 +579,13 @@ Regular updates with new problems and solutions.
 | [0101-symmetric-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
