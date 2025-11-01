@@ -471,6 +471,7 @@ Regular updates with new problems and solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
@@ -489,6 +490,7 @@ Regular updates with new problems and solutions.
 | [0099-recover-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
@@ -508,6 +510,7 @@ Regular updates with new problems and solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
