@@ -482,6 +482,7 @@ Regular updates with new problems and solutions.
 | [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -523,6 +524,7 @@ Regular updates with new problems and solutions.
 | [0222-count-complete-tree-nodes](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -603,6 +605,7 @@ Regular updates with new problems and solutions.
 | [0098-validate-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chauhan-Ujjawal/DSA_JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
